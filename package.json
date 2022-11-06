@@ -1,0 +1,22 @@
+{
+  "name": "vite-js",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.2.41",
+    "vite": "^3.2.2",
+    "vite-plugin-vuetify": "^1.0.0"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.0.96",
+    "@vitejs/plugin-vue": "^3.2.0",
+    "tinymotion": "^0.2.0",
+    "vue": "^3.2.41",
+    "vue3-lottie": "^2.4.0",
+    "vuetify": "^3.0.0"
+  }
+}
