@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import SpeedSliderDemo from '@/components/SpeedSliderDemo.vue'
 import RunProgramButtonDemo from '@/components/RunProgramButtonDemo.vue'
 import SliderRGB from '@/components/SliderRGB.vue'
